@@ -8,7 +8,7 @@
 
 - Creating default Schema from spring documentation as per guildelines. If we want according to our need dialect will override the schema.
 
-![j_0](https://user-images.githubusercontent.com/9671419/87243701-d1d6c900-c455-11ea-9db0-3cc86f9ce8fd.PNG)
+Login : user
 
 http://localhost:9090/user
 
@@ -18,7 +18,15 @@ UserName : user & Password : pass
 
 ![J_2](https://user-images.githubusercontent.com/9671419/87243707-d4d1b980-c455-11ea-88c5-abba9cfa9f18.PNG)
 
+Logout :
+
 ![J_3](https://user-images.githubusercontent.com/9671419/87243708-d56a5000-c455-11ea-909c-2d1492312737.PNG)
+
+Login : admin
+
+http://localhost:9090/admin
+
+UserName : admin & Password : pass
 
 ![J_4](https://user-images.githubusercontent.com/9671419/87243709-d602e680-c455-11ea-9fdb-a873c05b03c8.PNG)
 
